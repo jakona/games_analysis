@@ -1,7 +1,7 @@
 # Games sales anylysis
 
 ## Project Overview
-This project analyzes data in games sales over years using the "Video Game Sales" dataset from Kaggle. Data was imported into SQL database to train SQL queries with PowerBI.
+This project analyzes data in games sales over years using the "Video Game Sales" dataset from Kaggle. Data was imported into SQL database to transform data and mostly to train SQL queries with PowerBI.
 The goal is to explore the trends and popularity of platforms, publishers genres in different regions over years through data visualization.
 
 ## Technologies Used
